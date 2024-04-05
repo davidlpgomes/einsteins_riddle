@@ -21,3 +21,14 @@ Use the following 15 facts to determine: **"Who owns the fish?"**
 13. The green house is on the immediate left of the white house.
 14. The Norwegian lives next to the blue house.
 15. The owner who plays basketball lives next to the one who drinks water.
+
+## Output
+Running the **riddle.mzn** file with MiniZinc, the output is:
+
+    First: Norwegian, Yellow, Cats, Water, Piano
+    Second: Danish, Blue, Horses, Tea, Basketball
+    Third: British, Red, Birds, Milk, Baseball
+    Fourth: German, Green, Fish, Coffee, Soccer
+    Fifth: Swedish, White, Dogs, Beer, Violin
+
+    The owner of the fish is the German man.
